@@ -1,20 +1,22 @@
-## About Me  
-Hey there, I'm a **Computer Science student at Arcadia University**, passionate about building **revolutionary technology** that pushes the boundaries of innovation. My goal is to create software and systems that make a real impact on the world.  
+# Hello!
 
-## What I'm Working On  
-- Expanding my knowledge in **Java, JavaScript, and full-stack development**    
-- Contributing to open-source projects and collaborating with like-minded developers at my university
+I'm a **Computer Science student at Arcadia University**, passionate about building **revolutionary technology** that pushes the boundaries of innovation. My goal is to create software and systems that make a real impact on the world.  
 
-## Tech Stack  
-- **Languages:** Java, JavaScript 
+I’m expanding my knowledge in **Java, JavaScript, and full-stack development** while contributing to open-source projects and collaborating with like-minded developers at my university.  
+
+I'm fascinated by **cutting-edge software engineering** and love working on projects that have real-world applications.  
+
+Outside of coding, I enjoy doing **photography**, playing video games, and modding different game consoles.  
+
+## 🛠 Tech Stack  
+- **Languages:** Java, JavaScript  
 - **Web Dev:** TBA  
 - **Databases:** MongoDB  
 - **Tools:** Git, VS Code  
 
-## Goals  
-- Land a **remote SWE internship**   
+## 🎯 Goals  
+- Land a **remote SWE internship**  
 - Build open-source projects that solve real-world problems  
-- Master **Java & JavaScript** 
+- Master **Java & JavaScript**  
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/467760650626531331)](https://discord.com/users/467760650626531331)
+[![Discord Presence](https://lanyard.cnrad.dev/api/467760650626531331)](https://discord.com/users/467760650626531331)  
