@@ -8,13 +8,13 @@ I'm fascinated by **cutting-edge software engineering** and love working on proj
 
 Outside of coding, I enjoy doing **photography**, playing video games, and modding different game consoles.  
 
-## 🛠 Tech Stack  
+## Tech Stack  
 - **Languages:** Java, JavaScript  
 - **Web Dev:** TBA  
 - **Databases:** MongoDB  
 - **Tools:** Git, VS Code  
 
-## 🎯 Goals  
+## Goals  
 - Land a **remote SWE internship**  
 - Build open-source projects that solve real-world problems  
 - Master **Java & JavaScript**  
