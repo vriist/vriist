@@ -15,7 +15,7 @@ Outside of coding, I enjoy doing **photography**, playing video games, and moddi
 - **Tools:** Git, VS Code  
 
 ## Goals  
-- Land a **remote SWE internship**  
+- Land a **SWE internship**  
 - Build open-source projects that solve real-world problems  
 - Master **Java & JavaScript**  
 
