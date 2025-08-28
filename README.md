@@ -1,8 +1,8 @@
 # Hello!
 
-I'm a **Computer Science student at Arcadia University**, passionate about building **revolutionary technology** that pushes the boundaries of innovation. My goal is to create software and systems that make a real impact on the world.  
+I'm a **Computer Science student at Arcadia University**, passionate about building **technology** that pushes the boundaries of innovation. My goal is to create software and systems that make a real impact on the world.  
 
-I’m expanding my knowledge in **Java, JavaScript, and full-stack development** while contributing to open-source projects and collaborating with like-minded developers at my university.  
+I’m expanding my knowledge in **Java, JavaScript, and full-stack development** while contributing to open-source projects and collaborating with developers at my university.  
 
 I'm fascinated by **cutting-edge software engineering** and love working on projects that have real-world applications.  
 
